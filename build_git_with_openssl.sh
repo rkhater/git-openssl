@@ -3,7 +3,7 @@
 # -------------------------------------------------------------------------
 # Version 1.0 (June 11th 2014)
 # -------------------------------------------------------------------------
-# Copyright (c) 2012 Ramy Khater <eng.ramymohie@gmail.com>
+# Copyright (c) 2012 Ramy Khater <ramy.m.khater@gmail.com>
 # This script is licensed under GNU GPL version 2.0 or above
 # -------------------------------------------------------------------------
 
